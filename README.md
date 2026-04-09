@@ -33,23 +33,11 @@ Interactive-Calendar/
 │   ├── App.jsx
 │   └── main.jsx
 │
-│── public/
+│
 │── index.html
 │── package.json
 │── vite.config.js
 ```
-
----
-
-## ⚙️ Installation & Setup
-
-```bash
-git clone https://github.com/aditiisingh0/Interactive-Calendar-.git
-cd Interactive-Calendar-
-npm install
-npm run dev
-```
-
 ---
 
 ## 🌐 Deployment
@@ -57,8 +45,6 @@ npm run dev
 The project can be deployed using:
 
 * GitHub Pages
-* Netlify
-* Vercel
 
 ---
 
